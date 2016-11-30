@@ -1,7 +1,7 @@
 package bo.pochoclos.com.vistas;
 
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;x
+import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
